@@ -1,0 +1,6 @@
+1) Пишем класс, который умеет скачивать данные из сети и возвращать нам массив структур (наших моделей)
+2) UIPageViewController - просто делаем листающийся вправо влево экран
+3) Экран настроек (только он). UITableView, настройки сохраняются в UserDefaults
+4) Делаем экран с запусками (должно получиться MVP/MVVM или еще какая архитектура)
+5) Делаем главный экран UICompositionalLayout + NSDiffableDataSource https://developer.apple.com/documentation/uikit/views_and_controls/collection_views/implementing_modern_collection_views
+6) Связать все воедино
